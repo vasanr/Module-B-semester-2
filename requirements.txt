@@ -1,4 +1,5 @@
 pandas
 matplotlib
 numpy
+kagglehub
 # Add other project dependencies here (e.g. jupyter, scikit-learn)
